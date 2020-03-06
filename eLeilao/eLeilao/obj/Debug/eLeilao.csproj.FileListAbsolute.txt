@@ -1,0 +1,2 @@
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.csprojAssemblyReference.cache
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.csproj.CoreCompileInputs.cache
