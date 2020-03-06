@@ -1,2 +1,7 @@
 C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.csprojAssemblyReference.cache
 C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\bin\Debug\eLeilao.exe.config
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\bin\Debug\eLeilao.exe
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\bin\Debug\eLeilao.pdb
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.exe
+C:\Users\aluno1\Desktop\e-leilao\eLeilao\eLeilao\obj\Debug\eLeilao.pdb

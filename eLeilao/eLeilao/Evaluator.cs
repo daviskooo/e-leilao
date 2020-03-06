@@ -8,8 +8,8 @@ namespace eLeilao
 {
     public class Evaluator
     {
-        private double highestOffer = Double.MaxValue;
-        private double lowestOffer = Double.MinValue;
+        public double highestOffer = Double.MaxValue;
+        public double lowestOffer = Double.MinValue;
 
         public void Evaluation(Auction auction)
         {
