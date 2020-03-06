@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace eLeilao
 {
-    class Offer
+    public class Offer
     {
         public User User { get; private set; }
         public double Value { get; private set; }
